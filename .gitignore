@@ -15,7 +15,7 @@ build/
 cms/.cache/
 cms/build/
 cms/.tmp/
-
+cms/public/uploads/
 
 # Local env files
 .env
